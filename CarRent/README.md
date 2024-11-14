@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 ### Contact
 For any inquiries or support, please contact:
-***Name:*** Surya Prakash Maurya
-***Email:*** msurya9701@gmail.com
+***Name:*** Raju
+***Email:*** mailraju1406@gmail.com
 
 
