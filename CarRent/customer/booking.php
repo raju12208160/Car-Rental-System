@@ -149,10 +149,10 @@ if (!isset($_SESSION['login_customer'])) {
 </div>
 <div>
     <ul class="social-media">
-        <li ><a href="https://www.facebook.com/suryaprakash.maurya.56808">Facebook<i class="fab fa-facebook"></i></a>
+        <li ><a href="https://www.facebook.com/">Facebook<i class="fab fa-facebook"></i></a>
         </li>
-        <li><a href="https://x.com/suryap_999_1">X<i class="fab fa-twitter"></i></a></li>
-        <li><a href="https://www.instagram.com/spmhot.99/">Instagram<i class="fab fa-instagram"></i></a></li>
+        <li><a href="https://x.com/">X<i class="fab fa-twitter"></i></a></li>
+        <li><a href="https://www.instagram.com/">Instagram<i class="fab fa-instagram"></i></a></li>
     </ul>
 </div>
 <div>
